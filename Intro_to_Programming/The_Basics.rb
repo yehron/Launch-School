@@ -52,8 +52,3 @@ factorial_eight = 8*7*6*5*4*3*2
 puts 3.12 8 3.12
 
 # Put in the wrong closing bracket ) instead of }
-
-
-
-
-
